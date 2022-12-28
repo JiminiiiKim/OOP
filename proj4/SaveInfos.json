@@ -1,0 +1,137 @@
+{
+  "Sched_1": {
+    "type_name": "exam",
+    "subject_name": "OOP",
+    "test_range": "chapter 3~ chapter 8",
+    "priority": 8,
+    "difficulty": 5,
+    "exam_date": 1213,
+    "memo": "memo"
+  },
+  "Sched_2": {
+    "type_name": "assignment",
+    "subject_name": "ProgrammingLanguage",
+    "title": "PL_Proj",
+    "priority": 3,
+    "difficulty": 7,
+    "end_date": 1214,
+    "memo": "memo"
+  },
+  "Sched_3": {
+    "type_name": "assignment",
+    "subject_name": "ACT",
+    "title": "ACT_Proj",
+    "priority": 4,
+    "difficulty": 6,
+    "end_date": 1214,
+    "memo": "memo"
+  },
+  "Sched_4": {
+    "type_name": "exam",
+    "subject_name": "ComputerStructure",
+    "test_range": "chapter 4~ chapter 8",
+    "priority": 5,
+    "difficulty": 7,
+    "exam_date": 1215,
+    "memo": "memo"
+  },
+  "Sched_5": {
+    "type_name": "assignment",
+    "subject_name": "ComputerStructure",
+    "title": "Structure_Proj",
+    "priority": 2,
+    "difficulty": 7,
+    "end_date": 1216,
+    "memo": "memo"
+  },
+  "Sched_6": {
+    "type_name": "assignment",
+    "subject_name": "Psychology",
+    "title": "Psych_Proj",
+    "priority": 10,
+    "difficulty": 7,
+    "end_date": 1212,
+    "memo": "memo"
+  },
+  "Sched_7": {
+    "type_name": "exam",
+    "subject_name": "History",
+    "test_range": "Chapter 8 ~ Chapter11",
+    "priority": 7,
+    "difficulty": 7,
+    "exam_date": 1219,
+    "memo": "memo"
+  },
+  "Sched_8": {
+    "type_name": "assignment",
+    "subject_name": "History",
+    "title": "History_Report",
+    "priority": 3,
+    "difficulty": 2,
+    "end_date": 1221,
+    "memo": "memo"
+  },
+  "Sched_9": {
+    "type_name": "assignment",
+    "subject_name": "Automata",
+    "title": "Automata_Design",
+    "priority": 2,
+    "difficulty": 8,
+    "end_date": 1218,
+    "memo": "memo"
+  },
+  "Sched_10": {
+    "type_name": "exam",
+    "subject_name": "Automata",
+    "test_range": "Chapter 6 ~ Chapter11",
+    "priority": 8,
+    "difficulty": 9,
+    "exam_date": 1220,
+    "memo": "memo"
+  },
+  "Sched_11": {
+    "type_name": "exam",
+    "subject_name": "DatabaseDesign",
+    "test_range": "Chapter 4 ~ Chapter 7",
+    "priority": 5,
+    "difficulty": 10,
+    "exam_date": 1221,
+    "memo": "memo"
+  },
+  "Sched_12": {
+    "type_name": "assignment",
+    "subject_name": "DatabaseDesign",
+    "title": "RDB_Schema",
+    "priority": 3,
+    "difficulty": 8,
+    "end_date": 1222,
+    "memo": "memo"
+  },
+  "Sched_13": {
+    "type_name": "assignment",
+    "subject_name": "DatabaseDesign",
+    "title": "JDBC",
+    "priority": 6,
+    "difficulty": 5,
+    "end_date": 1223,
+    "memo": "memo"
+  },
+  "Sched_14": {
+    "type_name": "exam",
+    "subject_name": "ProgrammingLanguage",
+    "test_range": "Chapter 4 ~ Chapter9",
+    "priority": 1,
+    "difficulty": 5,
+    "exam_date": 1224,
+    "memo": "memo"
+  },
+  "Sched_15": {
+    "type_name": "exam",
+    "subject_name": "Psychology",
+    "test_range": "Chapter 9 ~ Chapter 12",
+    "priority": 1,
+    "difficulty": 3,
+    "exam_date": 1225,
+    "memo": "memo"
+  }
+}
